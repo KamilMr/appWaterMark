@@ -1,0 +1,12 @@
+{
+  "name": "waterMarkApp",
+  "version": "1.0",
+  "description": "This program adds watermark to pictures",
+  "main": "index.js",
+  "author": "Kamil Mrowka",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
